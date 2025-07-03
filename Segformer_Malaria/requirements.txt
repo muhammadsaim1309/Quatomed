@@ -1,0 +1,9 @@
+transformers 
+datasets 
+torch 
+torchvision 
+accelerate 
+opencv-python 
+pillow
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/datasets.git
